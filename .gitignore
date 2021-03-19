@@ -1,0 +1,6 @@
+# ignore all kinds of files
+*
+# except README.md and the hdl files
+!*.hdl
+!README.md
+!.gitignore
