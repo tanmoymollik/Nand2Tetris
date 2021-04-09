@@ -1,6 +1,6 @@
 # ignore all kinds of files
 *
-# except README.md and the hdl files
+# except hdl, asm and README files
 !*.hdl
 !*.asm
 !README.md
