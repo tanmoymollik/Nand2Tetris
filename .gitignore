@@ -2,5 +2,6 @@
 *
 # except README.md and the hdl files
 !*.hdl
+!*.asm
 !README.md
 !.gitignore
